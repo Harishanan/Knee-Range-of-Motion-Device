@@ -6,3 +6,8 @@ Figure 1: Dr Knee Movo (Wearable knee Range of Motion device) project design.
 
 Table 1: Components’ description in wearable embedded system design.
 ![Components’ description in wearable embedded system design ](<Components description.png>)
+<br>
+
+![Block diagram of wearable knee range of motion device](<block diagram of wearabale device.png>)
+Figure 2: Block diagram of wearable knee range of motion device.
+ 
