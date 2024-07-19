@@ -16,6 +16,6 @@ Figure 2: Block diagram of wearable knee range of motion device.
 Figure 3: Angle measurement processing.
 <br>
 
-![angle measurement process](<angle measurement process.png>)
-Figure 4: Angle measurement processing.
+![data logging and angle calculating process](<data logging.png>)
+Figure 4: Data logging and calculating angle difference.
 <br>
