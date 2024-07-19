@@ -10,4 +10,12 @@ Table 1: Components’ description in wearable embedded system design.
 
 ![Block diagram of wearable knee range of motion device](<block diagram of wearabale device.png>)
 Figure 2: Block diagram of wearable knee range of motion device.
- 
+ <br>
+
+![angle measurement process](<angle measurement process.png>)
+Figure 3: Angle measurement processing.
+<br>
+
+![angle measurement process](<angle measurement process.png>)
+Figure 4: Angle measurement processing.
+<br>
